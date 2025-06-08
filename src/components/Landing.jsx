@@ -66,11 +66,11 @@ function Landing() {
                     <div className="flex flex-col w-full gap-y-7 items-center justify-center">
                         <div className="flex flex-col items-center justify-center w-full gap-y-5">
                             <button className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
-                                <img src="/images/Google.png" alt="Google logo" className="h-5 w-5" />
+                                <img src="/Images/Google.png" alt="Google logo" className="h-5 w-5" />
                                 <span className="font-semibold text-black w-full text-center">Continue with Google</span>
                             </button>
                             <button className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
-                                <img src="/images/Facebook.png" alt="Facebook logo" className="h-5 w-5" />
+                                <img src="/Images/Facebook.png" alt="Facebook logo" className="h-5 w-5" />
                                 <span className="font-semibold text-black w-full text-center">Continue with Facebook</span>
                             </button>
                         </div>
@@ -113,11 +113,11 @@ function Landing() {
                     <div className="flex flex-col w-full gap-y-7 items-center justify-center">
                         <div className="flex flex-col items-center justify-center w-full gap-y-5">
                             <button className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
-                                <img src={'/Images/google.png'} alt="Google logo" className="h-5 w-5" />
+                                <img src={'/Images/Google.png'} alt="Google logo" className="h-5 w-5" />
                                 <span className="font-semibold text-black w-full text-center">Continue with Google</span>
                             </button>
                             <button className="flex items-center justify-center rounded-md w-full border-2 border-[#8064A2] border-solid py-1.5 px-3 cursor-pointer">
-                                <img src={'/Images/facebook.png'} alt="Facebook logo" className="h-5 w-5" />
+                                <img src={'/Images/Facebook.png'} alt="Facebook logo" className="h-5 w-5" />
                                 <span className="font-semibold text-black w-full text-center">Continue with Facebook</span>
                             </button>
                         </div>
